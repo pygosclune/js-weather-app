@@ -1,0 +1,6 @@
+.weather-box {
+    visibility: hidden;
+}
+.visible {
+    visibility: visible;
+}
